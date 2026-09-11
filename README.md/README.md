@@ -65,6 +65,23 @@ The Power BI dashboard contains:
 | Cluster 2 | 906 |
 | **Total** | **3,604** |
 
+## 📊 Power BI Dashboard
+
+### Overview
+![Overview](Overview.png)
+
+### Customer Segments
+![Customer Segments](Segments.png)
+
+### RFM Analysis
+![RFM Analysis](RFM_Analysis.png)
+
+### Cluster Analysis
+![Cluster Analysis](Clusters.png)
+
+### Business Insights
+![Business Insights](Insights.png)
+
 ## 💡 Key Business Applications
 
 - Targeted marketing campaigns
